@@ -19,3 +19,5 @@ This repository connects to the existing Vercel project `obliq-motion-music-lab`
 `.vercel/` and `.env*` are local Vercel configuration and credentials. They are ignored by Git and excluded from deployment.
 
 Camera and voice features, when present, require a supported browser and browser permission. Store checkout flows are demonstrations.
+
+GitHub source: https://github.com/inceptionretreats-stack/obliq-motion-music-lab
